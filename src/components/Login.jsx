@@ -49,7 +49,7 @@ const Login = () => {
 
       <form onSubmit={handleSubmit}>
         <div className="form-group">
-          <label htmlFor="email">Email</label>
+          <label htmlFor="email">Email<span style={{ color: 'red' }}>*</span></label>
           <input
             type="email"
             id="email"
@@ -60,7 +60,7 @@ const Login = () => {
         </div>
 
         <div className="form-group">
-          <label htmlFor="password">Password</label>
+          <label htmlFor="password">Password<span style={{ color: 'red' }}>*</span></label>
           <input
             type="password"
             id="password"
