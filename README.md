@@ -6,11 +6,11 @@ Welcome to **CodeX**
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/educase-india.git
+    git clone https://github.com/Sandeepgupta078/CodeX
     ```
 2. Navigate to the project directory:
     ```bash
-    cd educase-india
+    cd CodeX
     ```
 3. Install dependencies:
     ```bash
